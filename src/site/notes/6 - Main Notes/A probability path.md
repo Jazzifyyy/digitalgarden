@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/a-probability-path/","tags":["moc"]}
+{"dg-publish":true,"permalink":"/6-main-notes/a-probability-path/","tags":["moc","gardenEntry"]}
 ---
 
 ## Sets and Events 
