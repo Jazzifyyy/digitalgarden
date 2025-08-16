@@ -5,9 +5,7 @@
 ### Definition
 
 Given two functions $f$ and $g$, we say that $f \in O(g)$ if there exists constants $c>0$ and $n_{0}>0$ such that 
-$$
-f(n) \leq cg(n)
-$$
+$$f(n) \leq cg(n)$$
 for all $n \geq n_{0}$.
 
 ### Note
