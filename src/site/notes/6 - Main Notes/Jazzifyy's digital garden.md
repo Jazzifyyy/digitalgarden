@@ -4,4 +4,5 @@
 
 ### Index
 + [[6 - Main Notes/A probability path\|A probability path]]
++ [[6 - Main Notes/Data Structures and Algorithms (Fall)\|Data Structures and Algorithms (Fall)]]
 
