@@ -15,7 +15,8 @@ Then the joint pdf of $(X,Y)$ follows a [[6 - Main Notes/Bivariate normal distri
 
 ### Proof
 
-Define the function $h: \mathbb{R}^2 \rightarrow \mathbb{R}^2$ by $$h(z_{1},z_{2})= \left(z_{1},\rho z_{1}+ \sqrt{ 1- \rho^2 }z_{2} \right).$$
+Define the function $h: \mathbb{R}^2 \rightarrow \mathbb{R}^2$ by 
+$$h(z_{1},z_{2})= \left(z_{1},\rho z_{1}+ \sqrt{ 1- \rho^2 }z_{2} \right).$$
 Note that $h^{-1}(x,y)=\left( x, \frac{y}{\sqrt{ 1- \rho^2 }}- \frac{\rho }{\sqrt{ 1-\rho^2 }}x \right)$.
 
 Also note that 
@@ -39,7 +40,8 @@ f_{X,Y}(x,y)&= f_{Z_{1},Z_{2}}(h^{-1}(x,y))\cdot |J|^{-1}\\
 ### Additional Insights
 1. $X$ and $Y$ are not necessarily independent.
 2. If $\rho=0$, then $X$ and $Y$ are independent. 
-3. The distribution of $Y$ is $N(0,1)$:$$\begin{align*}
+3. The distribution of $Y$ is $N(0,1)$:
+$$\begin{align*}
    f_{Y}(y) &= \int_{-\infty}^\infty f_{X,Y}(x,y)dy \\
    &= \frac{1}{2\pi \sqrt{ 1-\rho^2 }}\int_{-\infty}^\infty \exp \left\{ - \frac{x^2 -2 \rho xy + y^2}{2(1- \rho^2)} \right\}dx \\
    &= \frac{1}{2\pi \sqrt{ 1-\rho^2 }}\int_{-\infty}^\infty \exp \left\{ - \frac{(x - \rho y)^2 + y^2(1- \rho^2)}{2(1- \rho^2)} \right\}dx \\
