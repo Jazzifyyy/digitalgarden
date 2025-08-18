@@ -4,7 +4,7 @@
 
 ### Statement
 
-Suppose $X$ and $Y$ are two [[6 - Main Notes/Bivariate normal distribution\|bivariate normal distributions]]. Then there exist standard normal random variables $Z_{1}$ and $Z_{2}$ such that $X$and $Y$ can be expressed as:
+Suppose $X$ and $Y$ are two [[6 - Main Notes/Standard bivariate normal distribution\|bivariate normal distributions]]. Then there exist standard normal random variables $Z_{1}$ and $Z_{2}$ such that $X$and $Y$ can be expressed as:
 $$\begin{align}
 X &= \sigma_{X}Z_{1} + \mu_{X} \\ \\
 Y&= \sigma_{Y}(\rho Z_{1} + \sqrt{ 1- \rho^2 }Z_{2}) + \mu_{Y}.
