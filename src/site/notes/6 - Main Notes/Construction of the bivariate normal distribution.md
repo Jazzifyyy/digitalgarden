@@ -23,7 +23,7 @@ Also note that
 $$J = \det \begin{pmatrix}
 \frac{\partial h_{1}}{\partial z_{1}} & \frac{\partial h_{1}}{\partial z_{2}} \\
 \frac{\partial h_{2}}{\partial z_{1}} & \frac{\partial h_{2}}{\partial z_{2}}
-\end{pmatrix} = \begin{pmatrix}
+\end{pmatrix} =\det \begin{pmatrix}
 \sigma_{X} & 0 \\
 \rho \sigma_{Y} & \sigma_{Y}\sqrt{ 1- \rho^2 }
 \end{pmatrix} = \sigma_{X}\sigma_{Y}\sqrt{ 1-\rho^2 }.$$
