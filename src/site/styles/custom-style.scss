@@ -3,5 +3,14 @@ body {
   text-align: left !important;
   padding-left: 0 !important;
   margin-left: 0 !important;
-  }
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  padding: 0.5em 0;
+}
+
+.katex-display > .katex {
+  white-space: nowrap;
+}
+
 }
