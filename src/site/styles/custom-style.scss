@@ -1,16 +1,10 @@
 body {
-.katex-display {
-  text-align: left !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-  overflow-x: auto;
-  overflow-y: hidden;
-  max-width: 100%;
-  padding: 0.5em 0;
-}
-
-.katex-display > .katex {
-  white-space: nowrap;
-}
-
+.MathJax_Display {
+  display: block !important;
+  text-align: left !important;   /* align left */
+  margin: 1em 0 !important;      /* spacing above/below */
+  overflow-x: auto !important;   /* allow horizontal scrolling */
+  white-space: nowrap !important;/* keep equation in one line */
+  max-width: 100% !important;    /* don't go past screen width */
+  }
 }
