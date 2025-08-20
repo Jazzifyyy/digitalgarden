@@ -8,3 +8,4 @@ qwooo
 + [[6 - Main Notes/Probability II (Fall)\|Probability II (Fall)]]
 ### Personal endeavours
 + [[6 - Main Notes/A probability path\|A probability path]]
++ [[6 - Main Notes/Topology (Janich)\|Topology (Janich)]]
