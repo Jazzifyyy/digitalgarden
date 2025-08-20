@@ -13,5 +13,6 @@
 	+ [[6 - Main Notes/Construction of the bivariate normal distribution\|Construction of the bivariate normal distribution]]
 ### Problems
 + [[6 - Main Notes/Assignment 1 problem 1 (normal and bivariate normal)\|Assignment 1 problem 1 (normal and bivariate normal)]]
++ [[6 - Main Notes/Assignment 1 problem 2 (expectation of max of standard bivariate normals)\|Assignment 1 problem 2 (expectation of max of standard bivariate normals)]]
 ### Daily
 + [[6 - Main Notes/prob 2 daily\|prob 2 daily]]
