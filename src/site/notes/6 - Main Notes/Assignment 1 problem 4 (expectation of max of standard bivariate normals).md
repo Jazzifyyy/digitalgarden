@@ -18,7 +18,8 @@ Define $Z:=Y-X$ where $\mathbb{E}[Z]=\mathbb{E}[Y]-\mathbb{E}[X]=0$ and $\text{V
 
 Thus, $Z \sim \mathcal{N}(0, 2(1-\rho))$.
 
-Finally, $$\mathbb{E}[\max(X,Y)]= \mathbb{E}[X]+\mathbb{E}[Z.\mathbb{1}_{\{ Z>0 \}}]= \sqrt{ \frac{1-\rho}{\pi} }$$
+Finally, 
+$$\mathbb{E}[\max(X,Y)]= \mathbb{E}[X]+\mathbb{E}[Z.\mathbb{1}_{\{ Z>0 \}}]= \sqrt{ \frac{1-\rho}{\pi} }$$
 where we solved
 $$\begin{align}
 I=\int_{0}^\infty \frac{1}{\sqrt{ 4\pi(1-\rho) }}ze^{-z^2/(4(1-\rho))}dz
