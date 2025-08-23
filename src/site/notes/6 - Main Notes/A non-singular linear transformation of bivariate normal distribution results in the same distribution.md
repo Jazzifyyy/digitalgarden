@@ -6,7 +6,8 @@
 
 Suppose $T:\mathbb{R}^2 \rightarrow \mathbb{R}^2$ is a non-singular linear transform and suppose $\mathbf{X}=(X_{1},X_{2})$ follows a [[6 - Main Notes/Bivariate normal distribution\|bivariate normal distribution]], i.e., $\mathbf{X} \sim \mathcal{N}_{2}(\bar{\mu},\Sigma)$.
 
-Then $$\mathbf{Y}=T(\mathbf{X}) \sim \mathcal{N}_{2}(\begin{pmatrix}
+Then 
+$$\mathbf{Y}=T(\mathbf{X}) \sim \mathcal{N}_{2}(\begin{pmatrix}
 A\bar{\mu}, A \Sigma A^T
 \end{pmatrix})$$
 where $A$ is the matrix representation of the linear transform, i.e., $T(\mathbf{X})=A\mathbf{X}$.
