@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/6-main-notes/statistical-inference-fall/","tags":["moc"]}
+---
+
+### Introduction
++ [[6 - Main Notes/Goal of inference\|Goal of inference]]
+### Data summarization
++ [[6 - Main Notes/Statistic (inference fall)\|Statistic (inference fall)]]
++ [[6 - Main Notes/Sufficient statistic\|Sufficient statistic]]
+	+ [[6 - Main Notes/Fisher-Neyman factorization theorem\|Fisher-Neyman factorization theorem]]

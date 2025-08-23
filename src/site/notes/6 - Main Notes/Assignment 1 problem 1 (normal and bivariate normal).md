@@ -29,4 +29,12 @@ $X+ 2Y \sim N(0,5)$ and thus
 $$\mathbb{P}(X+2Y\leq 3)= \mathbb{P}\left( \frac{X+2Y}{\sqrt{ 5 }}\leq \frac{3}{\sqrt{ 5 }} \right)= \Phi\left( \frac{3}{\sqrt{ 5 }} \right).$$
 ##### Part 2
 
-(...)
+Note that 
+$$\mathbb{E}[X+2Y]=0$$
+by the calculation in part 1.
+
+Also
+$$\text{Var}(X+2Y)= \text{Var}(X)+ 4 \text{Var}(Y)+4 \text{Cov}(X,Y)= 5+4.\frac{1}{2}=7.$$
+The linear combination of jointly normal variables $X,Y$ is also normal and thus,
+$X+2Y \sim \mathcal{N}(0,7)$ and thus
+$$\mathbb{P}(X+2Y \leq 3) = \mathbb{P}\left( \frac{X+2Y}{\sqrt{ 7 }}\leq \frac{3}{\sqrt{ 7 }} \right)= \Phi\left( \frac{3}{\sqrt{ 7 }} \right).$$
