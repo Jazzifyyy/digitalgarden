@@ -40,3 +40,4 @@ p_{\theta}(\mathbf{x}) &= \mathbb{P}_{\theta}\{ \mathbf{X}= \mathbf{x}\} \\
 \end{align}$$
 Set $g_{\theta}[T(\cdot)]:= \mathbb{P_{\theta}}\{ T(\mathbf{.})=T(\mathbf{.}) \}$ and $h(\cdot):= \mathbb{P}_{\theta}\{ \mathbf{X}=\cdot|T(\mathbf{X})=T(\cdot) \}$ and we are done. 
 
+Note that $h(\cdot)$ is free of theta because of the assumption. 

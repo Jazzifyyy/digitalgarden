@@ -8,3 +8,6 @@ We say that a [[6 - Main Notes/Statistic (inference fall)\|statistic]] $T(\mathb
 
 ### Examples
 + [[6 - Main Notes/The sample mean is a sufficient statistic for the parameter of bernoulli\|The sample mean is a sufficient statistic for the parameter of bernoulli]]
+
+### Also See:
++ How to actually find a sufficient statistic? [[6 - Main Notes/Fisher-Neyman factorization theorem\|Fisher-Neyman factorization theorem]]
