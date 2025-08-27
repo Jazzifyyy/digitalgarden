@@ -21,5 +21,6 @@
 + [[6 - Main Notes/Assignment 1 problem 2 (independent normals, bivariate normals, and conditional distributions)\|Assignment 1 problem 2 (independent normals, bivariate normals, and conditional distributions)]]
 + [[6 - Main Notes/Assignment 1 problem 3 (linear combinations of bivariate normals)\|Assignment 1 problem 3 (linear combinations of bivariate normals)]]
 + [[6 - Main Notes/Assignment 1 problem 4 (expectation of max of standard bivariate normals)\|Assignment 1 problem 4 (expectation of max of standard bivariate normals)]]
++ [[6 - Main Notes/Assignment 2 problem 3 (Rotation of bivariate normal variables by an angle that causes independence)\|Assignment 2 problem 3 (Rotation of bivariate normal variables by an angle that causes independence)]]
 ### Daily
 + [[6 - Main Notes/prob 2 daily\|prob 2 daily]]
