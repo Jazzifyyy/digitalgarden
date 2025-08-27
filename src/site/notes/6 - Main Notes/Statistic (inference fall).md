@@ -11,4 +11,4 @@ A function is measurable if we can assign probabilities to it. In particular, $\
 Also, $\mathbb{P}_{\theta}\{ T(\mathbf{X}) \in (-\infty,t] \} = \mathbb{P}_{\theta}\{ T(\mathbf{X}) \leq t \}$ is well defined. 
 
 ### Also See:
-+ Ideally, the summary statistic should be chosen in a way such that no information about $\theta$ is lost in the process. See: [[6 - Main Notes/Sufficient statistic\|Sufficient statistic]].
++ Ideally, the summary statistic should be chosen in a way such that no information about $\theta$ is lost in the process. See: [[6 - Main Notes/sufficient statistic\|sufficient statistic]].

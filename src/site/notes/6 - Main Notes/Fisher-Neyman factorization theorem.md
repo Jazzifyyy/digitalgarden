@@ -4,11 +4,12 @@
 
 ### Statement
 
-Suppose $p_{\theta}(\mathbf{x})$ is the joint pdf/pmf of the sample $\mathbf{X}$. A [[6 - Main Notes/Statistic (inference fall)\|statistic]] $T(\mathbf{X})$ is a [[6 - Main Notes/Sufficient statistic\|sufficient statistic]] for $\theta$ iff we can factorize $p_{\theta}(\mathbf{x})$ as
+Suppose $p_{\theta}(\mathbf{x})$ is the joint pdf/pmf of the sample $\mathbf{X}$. A [[6 - Main Notes/Statistic (inference fall)\|statistic]] $T(\mathbf{X})$ is a [[6 - Main Notes/sufficient statistic\|sufficient statistic]] for $\theta$ iff we can factorize $p_{\theta}(\mathbf{x})$ as
 $$p_{\theta}(\mathbf{x})= g_{\theta}[T(\mathbf{x})]h(\mathbf{x})$$
 for all $\mathbf{x} \in \mathcal{X}$, where $g_{\theta}[T(\cdot)]$ is a function that depends on $\theta$ and $T(\cdot)$ and $h(\cdot)$ is a function free of $\theta$. 
 ### Proof
 
+(Recall: [[6 - Main Notes/inverse image under a statistic\|inverse image under a statistic]])
 ##### If part
 
 Suppose we have $p_{\theta}(\mathbf{x})= g_{\theta}[T(\mathbf{x})]h(\mathbf{x})$. 

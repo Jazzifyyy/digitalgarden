@@ -11,7 +11,11 @@
 	+ [[6 - Main Notes/Relating independent normal variables with bivariate normal variables (extra)\|Relating independent normal variables with bivariate normal variables (extra)]]
 + [[6 - Main Notes/Bivariate normal distribution\|Bivariate normal distribution]]
 	+ [[6 - Main Notes/Construction of the bivariate normal distribution\|Construction of the bivariate normal distribution]]
-+ [[6 - Main Notes/A non-singular linear transformation of bivariate normal distribution results in the same distribution\|A non-singular linear transformation of bivariate normal distribution results in the same distribution]]
+	+ [[6 - Main Notes/A non-singular linear transformation of bivariate normal distribution results in the same distribution\|A non-singular linear transformation of bivariate normal distribution results in the same distribution]]
+	+ [[6 - Main Notes/in a bivariate distribution, the distribution of one variable conditioned on the other variable is a normal distribution\|in a bivariate distribution, the distribution of one variable conditioned on the other variable is a normal distribution]]
+### Multivariate Normal Distribution
++ [[6 - Main Notes/Multivariate normal distribution\|Multivariate normal distribution]]
++ [[6 - Main Notes/standardization of the multivariate normal distribution\|standardization of the multivariate normal distribution]]
 ### Problems
 + [[6 - Main Notes/Assignment 1 problem 1 (normal and bivariate normal)\|Assignment 1 problem 1 (normal and bivariate normal)]]
 + [[6 - Main Notes/Assignment 1 problem 2 (independent normals, bivariate normals, and conditional distributions)\|Assignment 1 problem 2 (independent normals, bivariate normals, and conditional distributions)]]

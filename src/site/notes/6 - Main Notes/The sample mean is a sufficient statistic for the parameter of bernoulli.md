@@ -4,7 +4,7 @@
 
 ### Statement
 
-Suppose $X_{1},\dots,X_{n} \sim Bern(p)$ and are independent. Then $T(\mathbf{X})= \sum_{i=1}^n X_{i}$ is a [[6 - Main Notes/Sufficient statistic\|sufficient statistic]] for $p$.
+Suppose $X_{1},\dots,X_{n} \sim Bern(p)$ and are independent. Then $T(\mathbf{X})= \sum_{i=1}^n X_{i}$ is a [[6 - Main Notes/sufficient statistic\|sufficient statistic]] for $p$.
 
 ### Proof
 
