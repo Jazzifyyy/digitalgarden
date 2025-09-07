@@ -8,9 +8,18 @@ Suppose $(V,\langle .,. \rangle)$ is a real [[6 - Main Notes/inner product space
 
 ### Corollary
 
-For any $x,y \in V$, 
-$$\langle x,y \rangle =yG x^T$$
-where $y = y_{\beta}=(y_{1},\dots, y_{n})$ and $x=x_{\beta}=(x_{1},\dots,x_{n})$.
+For any $x,y \in V$, we have
+$$\langle x,y \rangle =y^TG x$$
+where $$y = y_{\beta}=\begin{pmatrix}
+y_{1} \\
+\vdots \\
+y_{n}
+\end{pmatrix}; x=x_{\beta}=
+\begin{pmatrix}
+x_{1}  \\
+\vdots \\
+x_{n}
+\end{pmatrix}.$$
 
 ##### Proof
 

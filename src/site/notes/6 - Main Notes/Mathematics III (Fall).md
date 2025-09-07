@@ -17,7 +17,12 @@
 + [[6 - Main Notes/inner product over complex field\|inner product over complex field]]
 + [[6 - Main Notes/inner product space\|inner product space]]
 ##### Matrices
++ [[6 - Main Notes/a square matrix has full rank iff it is invertible\|a square matrix has full rank iff it is invertible]]
 + [[6 - Main Notes/gram matrix\|gram matrix]]
++ [[6 - Main Notes/orthogonal matrix\|orthogonal matrix]]
+	+ [[6 - Main Notes/the rows of an orthogonal matrix forms an orthonormal basis\|the rows of an orthogonal matrix forms an orthonormal basis]]
++ [[6 - Main Notes/a matrix defines an inner product iff it is positive definite\|a matrix defines an inner product iff it is positive definite]]
++ [[6 - Main Notes/a matrix is positive definite iff its eigenvalues are positive\|a matrix is positive definite iff its eigenvalues are positive]]
 ### Problems
 + [[6 - Main Notes/Problem 1 (vector space and linear transformation)\|Problem 1 (vector space and linear transformation)]]
 

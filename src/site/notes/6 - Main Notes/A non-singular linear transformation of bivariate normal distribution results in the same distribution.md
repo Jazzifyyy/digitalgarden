@@ -32,7 +32,7 @@ a_{21} & a_{22}
 The joint pdf of $(Y_{1},Y_{2})=(a_{11}X_{1}+a_{22}X_{2},a_{21}X_{1}+a_{22}X_{2})$ is given by
 $$\begin{align}
 f_{\mathbf{Y}}(\mathbf{y})&= f_{\mathbf{X}}(h^{-1}(\mathbf{y}))\cdot |J|^{-1}\\
-&= \frac{1}{2\pi (\det A) }\exp\left\{  -\frac{1}{2}(A^{-1}\mathbf{y}- \bar{\mu})^T  \Sigma^{-1}(A^{-1}\mathbf{y}- \bar{\mu})\right\} \\
+&= \frac{1}{2\pi (\det A) \sqrt{ \det \Sigma }}\exp\left\{  -\frac{1}{2}(A^{-1}\mathbf{y}- \bar{\mu})^T  \Sigma^{-1}(A^{-1}\mathbf{y}- \bar{\mu})\right\} \\
 &= \frac{1}{2\pi \sqrt{ \det(A \Sigma A^T) }}\exp\left\{  -\frac{1}{2}[A^{-1}(\mathbf{y}-A \bar{\mu})]^T \Sigma^{-1}[A^{-1}(\mathbf{y}-A\bar{\mu})] \right\} \\
 &=\frac{1}{2\pi \sqrt{ \det(A \Sigma A^T) }}\exp\left\{  -\frac{1}{2}(\mathbf{y}-A \bar{\mu})^T(A^{-1})^T \Sigma^{-1}A^{-1}(\mathbf{y}-A\bar{\mu}) \right\} \\
 &=\frac{1}{2\pi \sqrt{ \det(A \Sigma A^T) }}\exp\left\{  -\frac{1}{2}(\mathbf{y}-A \bar{\mu})^T (A^{-1}\Sigma^{-1}A^{T})^{-1}(\mathbf{y}-A\bar{\mu}) \right\} \\

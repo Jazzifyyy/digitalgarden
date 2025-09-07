@@ -11,3 +11,9 @@
 	+ [[6 - Main Notes/Fisher-Neyman factorization theorem\|Fisher-Neyman factorization theorem]]
 + [[6 - Main Notes/minimal sufficient statistic\|minimal sufficient statistic]]
 + [[6 - Main Notes/test for minimal sufficiency\|test for minimal sufficiency]]
+
+### Problems
++ [[6 - Main Notes/set 3 ex 2 part a (minimal sufficient statistics for beta distribution) (inference fall)\|set 3 ex 2 part a (minimal sufficient statistics for beta distribution) (inference fall)]]
++ [[6 - Main Notes/set 3 ex 2 part b (minimal sufficient statistics for gamma distribution) (inference fall)\|set 3 ex 2 part b (minimal sufficient statistics for gamma distribution) (inference fall)]]
++ [[6 - Main Notes/set 3 ex 2 part d (minimal sufficient statistics for weibull distribution) (inference fall)\|set 3 ex 2 part d (minimal sufficient statistics for weibull distribution) (inference fall)]]
++ [[6 - Main Notes/set 3 ex 3 (minimal sufficient statistics for bivariate normal distribution) (inference fall)\|set 3 ex 3 (minimal sufficient statistics for bivariate normal distribution) (inference fall)]]
