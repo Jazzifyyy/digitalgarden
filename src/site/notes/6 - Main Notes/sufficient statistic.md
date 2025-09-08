@@ -13,4 +13,5 @@ We say that a [[6 - Main Notes/Statistic (inference fall)\|statistic]] $T(\mathb
 + How to actually find a sufficient statistic? 
 	+ [[6 - Main Notes/Fisher-Neyman factorization theorem\|Fisher-Neyman factorization theorem]], 
 	+ [[6 - Main Notes/deducing a sufficient statistic from a distribution that belongs to the one-parameter exponential family\|deducing a sufficient statistic from a distribution that belongs to the one-parameter exponential family]]
+	+ [[6 - Main Notes/deducing a sufficient statistic from a distribution that belongs to the multi-parameter exponential family\|deducing a sufficient statistic from a distribution that belongs to the multi-parameter exponential family]]
 + [[6 - Main Notes/sufficient statistic helps in generating pseudo-samples when the observed sample values are unknown\|sufficient statistic helps in generating pseudo-samples when the observed sample values are unknown]]
