@@ -42,7 +42,8 @@ B \\
 C
 \end{pmatrix}\mathbf{X}
 =A\mathbf{X}\sim \mathcal{N}_{d}(\mathbf{0}, AA^T)$$
-where $$AA^T= \begin{pmatrix} B \\
+where 
+$$AA^T= \begin{pmatrix} B \\
 C \end{pmatrix}\Sigma \begin{pmatrix}
 B^T | C^T
 \end{pmatrix} = \begin{pmatrix}

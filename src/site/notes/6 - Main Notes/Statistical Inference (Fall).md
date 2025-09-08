@@ -11,6 +11,11 @@
 	+ [[6 - Main Notes/Fisher-Neyman factorization theorem\|Fisher-Neyman factorization theorem]]
 + [[6 - Main Notes/minimal sufficient statistic\|minimal sufficient statistic]]
 + [[6 - Main Notes/test for minimal sufficiency\|test for minimal sufficiency]]
+### Exponential family
++ [[6 - Main Notes/one-parameter exponential family\|one-parameter exponential family]]
+	+ [[6 - Main Notes/deducing a sufficient statistic from a distribution that belongs to the one-parameter exponential family\|deducing a sufficient statistic from a distribution that belongs to the one-parameter exponential family]]
++ [[6 - Main Notes/multiparameter exponential family\|multiparameter exponential family]]
+	+ [[6 - Main Notes/deducing a sufficient statistic from a distribution that belongs to the multi-parameter exponential family\|deducing a sufficient statistic from a distribution that belongs to the multi-parameter exponential family]]
 
 ### Problems
 + [[6 - Main Notes/set 3 ex 2 part a (minimal sufficient statistics for beta distribution) (inference fall)\|set 3 ex 2 part a (minimal sufficient statistics for beta distribution) (inference fall)]]

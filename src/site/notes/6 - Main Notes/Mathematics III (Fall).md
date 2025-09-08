@@ -23,6 +23,11 @@
 	+ [[6 - Main Notes/the rows of an orthogonal matrix forms an orthonormal basis\|the rows of an orthogonal matrix forms an orthonormal basis]]
 + [[6 - Main Notes/a matrix defines an inner product iff it is positive definite\|a matrix defines an inner product iff it is positive definite]]
 + [[6 - Main Notes/a matrix is positive definite iff its eigenvalues are positive\|a matrix is positive definite iff its eigenvalues are positive]]
+##### Eigenvectors and eigenvalues
++ [[6 - Main Notes/eigenvector and eigenvalue\|eigenvector and eigenvalue]]
++ [[6 - Main Notes/characteristic polynomial of a matrix\|characteristic polynomial of a matrix]]
+##### Diagonalizability
++ [[6 - Main Notes/orthogonally diagonalizable matrix\|orthogonally diagonalizable matrix]]
 ### Problems
 + [[6 - Main Notes/Problem 1 (vector space and linear transformation)\|Problem 1 (vector space and linear transformation)]]
 
