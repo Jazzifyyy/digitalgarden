@@ -15,4 +15,5 @@ $$f_{\lambda,k}(x)=\begin{cases}
 ### Solution
 The ratios of the joint distribution is
 $$\frac{p_{\theta}(\mathbf{x})}{p_{\theta}(\mathbf{y})} = \exp \left\{  -\frac{1}{\lambda^k}\left[\sum_{i=1}^nx_{i}^k-\sum_{i=1}^n y_{i}^k\right] \right\}.\left( \frac{\prod_{i=1}^n x_{i}}{\prod_{i=1}^n y_{i}} \right)^{k-1}.$$
-The ratio is free of $\theta$.
+The ratio is free of $\theta$ iff $(x_{(1)},\dots,x_{(n)})=(y_{(1)},\dots,y_{(n)})$. Thus $(X_{(1)},\dots,X_{(n)})$ is a minimal statistic for this model. 
+
