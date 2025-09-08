@@ -16,9 +16,14 @@
 	+ [[6 - Main Notes/deducing a sufficient statistic from a distribution that belongs to the one-parameter exponential family\|deducing a sufficient statistic from a distribution that belongs to the one-parameter exponential family]]
 + [[6 - Main Notes/multiparameter exponential family\|multiparameter exponential family]]
 	+ [[6 - Main Notes/deducing a sufficient statistic from a distribution that belongs to the multi-parameter exponential family\|deducing a sufficient statistic from a distribution that belongs to the multi-parameter exponential family]]
-
+### Order statistics
++ [[6 - Main Notes/joint distribution of the order statistics\|joint distribution of the order statistics]]
++ [[6 - Main Notes/the order statistics are sufficient\|the order statistics are sufficient]]
++ [[6 - Main Notes/distribution of the jth order statistic\|distribution of the jth order statistic]]
 ### Problems
 + [[6 - Main Notes/set 3 ex 2 part a (minimal sufficient statistics for beta distribution) (inference fall)\|set 3 ex 2 part a (minimal sufficient statistics for beta distribution) (inference fall)]]
 + [[6 - Main Notes/set 3 ex 2 part b (minimal sufficient statistics for gamma distribution) (inference fall)\|set 3 ex 2 part b (minimal sufficient statistics for gamma distribution) (inference fall)]]
 + [[6 - Main Notes/set 3 ex 2 part d (minimal sufficient statistics for weibull distribution) (inference fall)\|set 3 ex 2 part d (minimal sufficient statistics for weibull distribution) (inference fall)]]
 + [[6 - Main Notes/set 3 ex 3 (minimal sufficient statistics for bivariate normal distribution) (inference fall)\|set 3 ex 3 (minimal sufficient statistics for bivariate normal distribution) (inference fall)]]
++ [[6 - Main Notes/set 4 ex 1 (exponential family and deduction of sufficient statistics)\|set 4 ex 1 (exponential family and deduction of sufficient statistics)]]
++ [[6 - Main Notes/set 4 ex 2 (extreme order statistics of uniform distribution)\|set 4 ex 2 (extreme order statistics of uniform distribution)]]
