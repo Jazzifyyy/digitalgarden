@@ -10,4 +10,7 @@ A real square matrix is an [[6 - Main Notes/orthogonally diagonalizable matrix\|
 
 Suppose $A$ is orthogonally diagonalisable, then there exists a diagonal matrix $D$ and an orthogonal matix $S$ such that $D=S^TAS$, which implies that $A^T=(SDS^T)^T=SDS^T=A$ and therefore, $A$ is symmetric.
 
-[[6 - Main Notes/the inner product of two eigenvectors (with distinct eigenvalues) of a matrix is zero\|the inner product of two eigenvectors (with distinct eigenvalues) of a matrix is zero]]
+[[6 - Main Notes/the dot product of two eigenvectors (with distinct eigenvalues) of a symmetric matrix is zero\|the dot product of two eigenvectors (with distinct eigenvalues) of a symmetric matrix is zero]]
+
+### Corollary
++ [[6 - Main Notes/a real positive definite matrix can be expressed as the product of a non-singular matrix and its transpose\|a real positive definite matrix can be expressed as the product of a non-singular matrix and its transpose]]

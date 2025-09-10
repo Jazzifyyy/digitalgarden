@@ -4,4 +4,4 @@
 
 ### Statement
 
-A matrix is [[6 - Main Notes/positive definite matrix\|positive definite matrix]] iff its [[eigenvalues\|eigenvalues]] are positive.
+A matrix is [[6 - Main Notes/positive definite matrix\|positive definite matrix]] iff its [[6 - Main Notes/eigenvector and eigenvalue\|eigenvalues]] are positive.
