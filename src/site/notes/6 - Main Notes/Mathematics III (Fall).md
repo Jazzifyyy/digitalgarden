@@ -40,5 +40,6 @@
 + [[6 - Main Notes/gram-schmidt process\|gram-schmidt process]]
 ### Problems
 + [[6 - Main Notes/Problem 1 (vector space and linear transformation)\|Problem 1 (vector space and linear transformation)]]
++ [[6 - Main Notes/assignment 2 problem 1 (gram-schmidt)\|assignment 2 problem 1 (gram-schmidt)]]
 
 [[6 - Main Notes/Math 3 daily\|Math 3 daily]]
