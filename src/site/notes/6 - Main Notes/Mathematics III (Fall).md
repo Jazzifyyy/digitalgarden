@@ -36,6 +36,8 @@
 	+ [[6 - Main Notes/a real square matrix is orthogonally diagonalizable iff it is symmetric\|a real square matrix is orthogonally diagonalizable iff it is symmetric]]
 		+ [[6 - Main Notes/a real positive definite matrix can be expressed as the product of a non-singular matrix and its transpose\|a real positive definite matrix can be expressed as the product of a non-singular matrix and its transpose]]
 + [[6 - Main Notes/spectral decomposition of a matrix\|spectral decomposition of a matrix]]
+##### Algorithms
++ [[6 - Main Notes/gram-schmidt process\|gram-schmidt process]]
 ### Problems
 + [[6 - Main Notes/Problem 1 (vector space and linear transformation)\|Problem 1 (vector space and linear transformation)]]
 
