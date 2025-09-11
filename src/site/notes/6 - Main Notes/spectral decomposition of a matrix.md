@@ -5,7 +5,8 @@
 ### Statement
 
 Suppose $A$ is a real symmetric matrix. Then $A$ has the spectral decomposition 
-$$A=SDS^T=\lambda_{1}\mathbf{u}_{1}\mathbf{u}_{1}^T+\lambda_{2}\mathbf{u}_{2}\mathbf{u}_{2}^T+\dots + \lambda_{n}\mathbf{u}_{n}\mathbf{u}_{n}^T.$$
+$$A=SDS^T=\lambda_{1}\mathbf{u}_{1}\mathbf{u}_{1}^T+\lambda_{2}\mathbf{u}_{2}\mathbf{u}_{2}^T+\dots + \lambda_{n}\mathbf{u}_{n}\mathbf{u}_{n}^T$$
+where $S$ is an orthogonal matrix whose columns are the orthonormal eigenvectors and $D$ is a real diagonal matrix whose diagonal entries are the corresponding eigenvalues. 
 ### Proof
 
 If $A$ is symmetric, then it is an [[6 - Main Notes/orthogonally diagonalizable matrix\|orthogonally diagonalizable matrix]] (See: [[6 - Main Notes/a real square matrix is orthogonally diagonalizable iff it is symmetric\|a real square matrix is orthogonally diagonalizable iff it is symmetric]]).

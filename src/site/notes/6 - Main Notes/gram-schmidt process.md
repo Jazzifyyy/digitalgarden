@@ -26,4 +26,5 @@ Our goal is to use this information to construct an orthogonal basis $\mathbf{v}
   $$0 = \langle \mathbf{v_{3}}, \mathbf{v}_{2} \rangle = \langle \mathbf{w}_{3}, \mathbf{v}_{1} \rangle - c_{2} \langle\mathbf{v}_{2}, \mathbf{v}_{2}\rangle=\langle \mathbf{w}_{3}, \mathbf{v}_{1} \rangle - c_{2} \Vert \mathbf{v}_{2} \Vert^2.$$
   yield the required $c_{1}$ and $c_{2}$.
   
-  
+  ### Problems
++ [[6 - Main Notes/assignment 2 problem 1 (gram-schmidt)\|assignment 2 problem 1 (gram-schmidt)]]
