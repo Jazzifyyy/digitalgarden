@@ -23,6 +23,7 @@
 + [[6 - Main Notes/orthogonal matrix\|orthogonal matrix]]
 	+ [[6 - Main Notes/the rows of an orthogonal matrix forms an orthonormal basis\|the rows of an orthogonal matrix forms an orthonormal basis]]
 + [[6 - Main Notes/a matrix defines an inner product iff it is positive definite\|a matrix defines an inner product iff it is positive definite]]+ [[6 - Main Notes/conjugate transpose of a matrix\|conjugate transpose of a matrix]]
++ [[6 - Main Notes/similar matrices\|similar matrices]]
 ##### Eigenvectors and eigenvalues
 + [[6 - Main Notes/eigenvector and eigenvalue\|eigenvector and eigenvalue]]
 + [[6 - Main Notes/characteristic polynomial of a matrix\|characteristic polynomial of a matrix]]
@@ -41,6 +42,7 @@
 + [[6 - Main Notes/singular value decomposition (svd)\|singular value decomposition (svd)]]
 	+ [[6 - Main Notes/examples of svd\|examples of svd]]
 + [[6 - Main Notes/polar decomposition\|polar decomposition]]
+	+ [[6 - Main Notes/the product of the transpose of a matrix and the matrix along with the product of the matrix and the transpose are similar (holds for square matrices)\|the product of the transpose of a matrix and the matrix along with the product of the matrix and the transpose are similar (holds for square matrices)]]
 ##### Algorithms
 + [[6 - Main Notes/gram-schmidt process\|gram-schmidt process]]
 ### Problems
