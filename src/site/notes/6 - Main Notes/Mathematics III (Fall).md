@@ -39,6 +39,8 @@
 
 	+ [[6 - Main Notes/singular values of a matrix\|singular values of a matrix]]
 + [[6 - Main Notes/singular value decomposition (svd)\|singular value decomposition (svd)]]
+	+ [[6 - Main Notes/examples of svd\|examples of svd]]
++ [[6 - Main Notes/polar decomposition\|polar decomposition]]
 ##### Algorithms
 + [[6 - Main Notes/gram-schmidt process\|gram-schmidt process]]
 ### Problems
